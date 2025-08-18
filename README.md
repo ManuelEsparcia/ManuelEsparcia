@@ -64,7 +64,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <h4> Check out my LinkedIn </h4>
 
-<a href=https://www.linkedin.com/in/manuel-esparcia-cantos-3aa452284/>
+<a href="https://www.linkedin.com/in/manuel-esparcia-cantos-3aa452284/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
